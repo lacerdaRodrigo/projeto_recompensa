@@ -1,5 +1,3 @@
-Projeto desenvolvido com o auxílio de Inteligência Artificial (GitHub Copilot).
-
 # Projeto Playwright Rewards
 
 Este repositório automatiza o processo de obtenção de recompensas ao realizar pesquisas no buscador Bing da Microsoft, utilizando o [Playwright](https://playwright.dev/) para simular o comportamento humano. O sistema executa buscas automáticas que acumulam pontos no programa de recompensas do Bing, permitindo que esses pontos sejam trocados por prêmios. Todo o fluxo é cuidadosamente projetado para respeitar limites de segurança e evitar bloqueios por sistemas anti-bot, garantindo a qualidade e a confiabilidade da automação.
